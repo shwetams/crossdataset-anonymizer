@@ -1,0 +1,13 @@
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\bin\Debug\netcoreapp3.1\anonymizer-dotnet-core.exe
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\bin\Debug\netcoreapp3.1\anonymizer-dotnet-core.deps.json
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\bin\Debug\netcoreapp3.1\anonymizer-dotnet-core.runtimeconfig.json
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\bin\Debug\netcoreapp3.1\anonymizer-dotnet-core.runtimeconfig.dev.json
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\bin\Debug\netcoreapp3.1\anonymizer-dotnet-core.dll
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\bin\Debug\netcoreapp3.1\anonymizer-dotnet-core.pdb
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\obj\Debug\netcoreapp3.1\anonymizer-dotnet-core.csprojAssemblyReference.cache
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\obj\Debug\netcoreapp3.1\anonymizer-dotnet-core.csproj.CoreCompileInputs.cache
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\obj\Debug\netcoreapp3.1\anonymizer-dotnet-core.AssemblyInfoInputs.cache
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\obj\Debug\netcoreapp3.1\anonymizer-dotnet-core.AssemblyInfo.cs
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\obj\Debug\netcoreapp3.1\anonymizer-dotnet-core.dll
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\obj\Debug\netcoreapp3.1\anonymizer-dotnet-core.pdb
+C:\repos\crossdataset-anonymizer\anonymizer-dotnet-core\obj\Debug\netcoreapp3.1\anonymizer-dotnet-core.genruntimeconfig.cache
